@@ -1,1 +1,0 @@
-vc-domain-verify=nueva.uteg.edu.mx,7bd86c941e918895a7dc
